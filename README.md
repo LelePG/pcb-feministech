@@ -14,7 +14,7 @@ A placa também tem um pequeno furo na parte superior onde pode ser colocado alg
 ## ⚙️ Componentes necessários para o projeto
 
 |     Componente     | Quantidade |                                                                                       Observação                                                                                        |
-| :----------------: | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --- |
+| :----------------: | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Suporte de Bateria |     1      | Um exemplo do tipo de conector pode ser acessado [clicando aqui](https://br.mouser.com/ProductDetail/TE-Connectivity-Linx-Technologies/BAT-HLD-003-SMT?qs=TuK3vfAjtkVRZQIT6eTqjQ%3D%3D) |
 |     LEDs 0805      |     6      |                                                                                                                                                                                         |
-|       Switch       |     1      |                    Um exemplo do tipo de switch pode ser acessado [clicando aqui](https://br.mouser.com/ProductDetail/CK/PCM12SMTBR?qs=By6Nw2ByBD1OEOnWcdZb2g%3D%3D)                    |     |
+|       Switch       |     1      |                    Um exemplo do tipo de switch pode ser acessado [clicando aqui](https://br.mouser.com/ProductDetail/CK/PCM12SMTBR?qs=By6Nw2ByBD1OEOnWcdZb2g%3D%3D)                    |
