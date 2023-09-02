@@ -1,4 +1,4 @@
-# PCB-natalina-2021
+# PCB-Feministech
 
 <p align="center"><img src = "imagens/3d.gif" width = "350"  alt = "Gif da placa em visualização 3d">
 </p>
